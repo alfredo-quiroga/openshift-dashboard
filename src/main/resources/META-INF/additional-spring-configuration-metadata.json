@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "kubernetes.master",
+    "type": "java.lang.String",
+    "description": "A description for 'kubernetes.master'"
+  },
+  {
+    "name": "kubernetes.auth.token",
+    "type": "java.lang.String",
+    "description": "A description for 'kubernetes.auth.token'"
+  },
+  {
+    "name": "kubernetes.api.version",
+    "type": "java.lang.String",
+    "description": "A description for 'kubernetes.api.version'"
+  },
+  {
+    "name": "kubernetes.connection.timeout",
+    "type": "java.lang.String",
+    "description": "A description for 'kubernetes.connection.timeout'"
+  },
+  {
+    "name": "app.name",
+    "type": "java.lang.String",
+    "description": "A description for 'app.name'"
+  },
+  {
+    "name": "app.version",
+    "type": "java.lang.String",
+    "description": "A description for 'app.version'"
+  }
+]}
